@@ -3,6 +3,5 @@
 I'm hosted with GitHub Pages.
 
 **Tables of contents**
-- [[psychiatry]]
-- [[psychiatry.html]]
-- 
+- [psychiatry](/docs/psychiatry/psychiatry.md)
+- [psychiatry](/docs/psychiatry/psychiatry.html)
