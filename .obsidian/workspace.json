@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "docs/psychiatry/psychiatry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "psychiatry"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "docs/psychiatry/psychiatry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for psychiatry"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "docs/psychiatry/psychiatry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from psychiatry"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "docs/psychiatry/psychiatry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of psychiatry"
             }
           }
         ]
@@ -170,12 +170,15 @@
   },
   "active": "cfac03902e81c658",
   "lastOpenFiles": [
+    "docs/psychiatry/psychiatry.html",
+    "index.md",
+    "docs/psychiatry/psychiatry.md",
+    "docs/psychiatry/index.md",
     "docs/psychiatry",
     "docs",
     "notes/psychiatry",
     "notes",
     "untitled folder",
-    "psychiatry",
-    "index.md"
+    "psychiatry"
   ]
 }
